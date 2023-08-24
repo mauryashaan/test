@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shashwat maurya
+Skills: HTML, CSS, JS, Dotnet, c#, MySql server, Git
+Email: mauryashaan9140@gmail.com
+{{/user}}
